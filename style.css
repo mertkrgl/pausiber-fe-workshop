@@ -22,7 +22,7 @@ body{
     height: 100vh;
 }
 nav{
-    height: 70px;
+    height: 90px;
     width: 100%;
     background-color: black;
     color: white;
@@ -33,7 +33,7 @@ nav{
 }
 main{
     width: 100½;
-    height: calc(100% - 70px);
+    height: calc(100% - 90px);
     background-color: red;
     }
 .logo-container{
